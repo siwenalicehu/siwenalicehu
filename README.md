@@ -10,7 +10,7 @@ I'm passionate about clean code, automation, and continuous learning. I thrive o
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ ServiceNow Platform (CAD & CSA certified)
 <br></br>
 
-<a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats-tawny-beta-11.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko&rank_icon=github&hide=issues&include_all_commits=true&line_height=40"></a>
+<a><img width="50%" src="https://github-readme-stats-tawny-beta-11.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko&rank_icon=github&hide=issues&include_all_commits=true&line_height=40"></a>
 
 <!-- Github status from https://github.com/anuraghazra/github-readme-stats -->
 <!-- [![Siwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko&show=commits,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) -->
