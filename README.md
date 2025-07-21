@@ -44,5 +44,6 @@ I'm passionate about clean code, automation, and continuous learning. I thrive o
 <!-- <h3 align="left">Socials</h3> -->
 <p align="left">
 <a href="https://linkedin.com/in/siwen-hu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siwen-hu" height="30" width="40" /></a>
+<a href="mailto:husiwen9@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/siwenhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siwenhu" height="30" width="40" /></a> -->
 </p>
