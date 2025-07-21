@@ -8,6 +8,7 @@ I'm passionate about clean code, automation, and continuous learning. I thrive o
 - 💼 **Software Engineer** with ~2 years of experience  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Full Stack Development (Frontend + Backend)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ ServiceNow Platform (CAD & CSA certified)
+<br></br>
 
 <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats-tawny-beta-11.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko&rank_icon=github&hide=issues&include_all_commits=true&line_height=40"></a>
 
