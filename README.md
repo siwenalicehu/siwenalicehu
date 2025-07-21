@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siwen Hu</h1>
 
 👩‍🎓 Obtained Bachelor's Degree from Purdue University, with a dual major in Computer Science and Mathematics, and a minor in Psychology.
+
 👩‍💻 Software Engineer with 2-year experience in full stack development and on ServiceNow platform.
 
 <!-- Github status from https://github.com/anuraghazra/github-readme-stats -->
