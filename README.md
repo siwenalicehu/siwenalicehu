@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Siwen Hu</h1>
 
-<h3 align="left">Connect with me:</h3>
+👩‍🎓 Obtained Bachelor's Degree from Purdue University, with a dual major in Computer Science and Mathematics, and a minor in Psychology.
+👩‍💻 Software Engineer with 2-year experience in full stack development and on ServiceNow platform.
+
+<!-- Github status from https://github.com/anuraghazra/github-readme-stats -->
+[![Siwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko&show=,prs_merged,prs_merged_percentage&hide=commits,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Siwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko&show=,prs_merged,prs_merged_percentage&hide=commits,contribs)](https://github.com/siwenalicehu/github-readme-stats-1)
+
+<h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siwen-hu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siwen-hu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/siwenhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siwenhu" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/siwenhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siwenhu" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
