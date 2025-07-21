@@ -4,8 +4,8 @@
 👩‍💻 Software Engineer with 2-year experience in full stack development and on ServiceNow platform.
 
 <!-- Github status from https://github.com/anuraghazra/github-readme-stats -->
-<!-- [![Siwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko&show=,prs_merged,prs_merged_percentage&hide=commits,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Siwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko&show=,prs_merged,prs_merged_percentage&hide=commits,contribs)](https://github.com/siwenalicehu/github-readme-stats-1) -->
+<!-- [![Siwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko&show=commits,prs_merged,prs_merged_percentage&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Siwen's GitHub stats](https://github-readme-stats-tawny-beta-11.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko)](https://github.com/siwenalicehu/github-readme-stats)
 
 <h3 align="left">Socials</h3>
 <p align="left">
