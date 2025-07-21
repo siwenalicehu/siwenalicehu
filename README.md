@@ -7,6 +7,7 @@
 <!-- Github status from https://github.com/anuraghazra/github-readme-stats -->
 <!-- [![Siwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko&show=commits,prs_merged,prs_merged_percentage&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Siwen's GitHub stats](https://github-readme-stats-tawny-beta-11.vercel.app/api?username=siwenalicehu&show_icons=true&theme=merko)](https://github.com/siwenalicehu/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USER-NAME](https://github-readme-stats-tawny-beta-11.vercel.app/api?username=siwenalicehu))](https://github.com/siwenalicehu/github-readme-stats)
 
 <h3 align="left">Socials</h3>
 <p align="left">
